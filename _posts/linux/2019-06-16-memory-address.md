@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2013阅读书单
-category: 读书
-keywords: 阅读,书单,2013
+title: 内存寻址
+category: Linux
+keywords: Linux,读书笔记
 ---
 # 第二章 内存寻址
 本章详细描述80X86微处理器如何进行芯片级别的内存寻址，Linux又是如何寻址硬件的
