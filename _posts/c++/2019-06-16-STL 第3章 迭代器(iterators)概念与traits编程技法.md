@@ -1,3 +1,9 @@
+---
+layout: post
+title: 
+category: c++
+keywords: STL,读书笔记
+---
 # 第三章 迭代器(*iterators*)概念与*traits*编程技法
 迭代器(*iterator*)是一种抽象的设计概念，程序语言中并没有直接对应的实物。《*Design Patterns*》一书中对*iterator*的定义为：**提供一种方法，使之能够依序巡防某个聚合物(容器)所含的各个元素，而又不暴露该聚合物的内部表述方式。**
 

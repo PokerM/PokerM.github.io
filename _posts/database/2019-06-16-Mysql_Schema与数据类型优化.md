@@ -1,3 +1,9 @@
+---
+layout: post
+title: 
+category: 数据库
+keywords: MySQL,读书笔记
+---
 # 第4章 Schema与数据类型优化
 
 ## 4.1 选择优化的数据类型
